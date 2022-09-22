@@ -8,3 +8,7 @@ Hoje alguns frameworks são muito conhecidos e praticamente qualquer desenvolved
 Nesse curso vamos abordar as bibliotecas padrões do Python, esse é o primeiro passo para todos os desenvolvedores que desejam trabalhar com a linguagem.
 
 Caso nunca tenha escrito nenhuma linha de código Python não se preocupe, o material foi pensado para guia-lo na jornada de aprendizado desde o inicio.
+
+
+
+CESAR BASSANI
